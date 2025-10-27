@@ -41,6 +41,7 @@ ChatGPT 會基於這個提示生成完整的 HTML、CSS 和 JavaScript 程式碼
 <img width="1590" height="936" alt="4" src="https://github.com/user-attachments/assets/e7a0ab10-ff0c-45a1-bbf3-d190dd04d206" />
 <img width="1585" height="942" alt="5" src="https://github.com/user-attachments/assets/1640b4b1-ccd6-4e7b-acef-43a1e5836945" />
 <img width="1588" height="847" alt="6" src="https://github.com/user-attachments/assets/84666813-5b82-4688-88e0-fbce4b7ee077" />
+<img width="1917" height="943" alt="7" src="https://github.com/user-attachments/assets/11e0153f-4952-43da-b84f-9d7185ad9e63" />
 
 
 
@@ -51,6 +52,17 @@ ChatGPT 會基於這個提示生成完整的 HTML、CSS 和 JavaScript 程式碼
 透過重新生成程式碼並替換舊程式碼，再次複製到 CodeOpen 中進行調試，就能讓新功能生效。若出現錯誤，則可以將錯誤訊息提供給 ChatGPT，它會自動進行除錯（debug），並重新生成修正版程式碼。
 
 
+<img width="1912" height="970" alt="8" src="https://github.com/user-attachments/assets/33ceb890-b077-4ba7-8949-f6d94d671ed6" />
+
+
+
+三、保存井字棋程式碼檔案
+
+1.保存 HTML 檔案
+如果調試程式碼後沒有問題，就可以保存 HTML 程式碼。我們打開一個文字編輯器（例如 Notepad），將生成的 HTML 程式碼貼上，然後將檔案的副檔名從 .txt 改為 index.html。這樣操作的目的是當訪問網站域名時，系統會自動讀取這個名為 index 的檔案，並展示程式介面。保存時要注意：格式必須正確（HTML 副檔名），且檔案編碼使用 UTF-8，以防止網頁出現亂碼。
+
+2.保存 CSS 和 JavaScript 檔案
+同樣地，你需要分別保存 CSS 和 JavaScript 程式碼，檔名分別為 style.css 和 scripts.js。注意，這三個檔案必須放在同一個目錄下，這樣不僅方便調用樣式與 JavaScript 程式碼，也能確保井字棋遊戲的外觀樣式和內部邏輯正常運作。
 
 六、結語
 

@@ -35,6 +35,12 @@ ChatGPT 會基於這個提示生成完整的 HTML、CSS 和 JavaScript 程式碼
 
 
 
+<img width="1602" height="925" alt="1" src="https://github.com/user-attachments/assets/de260648-649d-48fe-b2a4-1107c29a412a" />
+<img width="1602" height="943" alt="2" src="https://github.com/user-attachments/assets/54dd8cba-6abf-4def-8986-4fbe508114d6" />
+<img width="1593" height="826" alt="3" src="https://github.com/user-attachments/assets/887ca1cc-0be6-4681-877f-2c0442be4c3e" />
+<img width="1590" height="936" alt="4" src="https://github.com/user-attachments/assets/e7a0ab10-ff0c-45a1-bbf3-d190dd04d206" />
+<img width="1585" height="942" alt="5" src="https://github.com/user-attachments/assets/1640b4b1-ccd6-4e7b-acef-43a1e5836945" />
+<img width="1588" height="847" alt="6" src="https://github.com/user-attachments/assets/84666813-5b82-4688-88e0-fbce4b7ee077" />
 
 
 

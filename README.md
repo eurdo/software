@@ -64,7 +64,32 @@ ChatGPT 會基於這個提示生成完整的 HTML、CSS 和 JavaScript 程式碼
 2.保存 CSS 和 JavaScript 檔案
 同樣地，你需要分別保存 CSS 和 JavaScript 程式碼，檔名分別為 style.css 和 scripts.js。注意，這三個檔案必須放在同一個目錄下，這樣不僅方便調用樣式與 JavaScript 程式碼，也能確保井字棋遊戲的外觀樣式和內部邏輯正常運作。
 
-六、結語
+四、在vscode上測試
+
+
+1.將檔案丟入vscode
+
+
+
+<img width="1920" height="1080" alt="9" src="https://github.com/user-attachments/assets/06bd939e-e9d8-46f5-bb41-056c29b59036" />
+<img width="827" height="947" alt="10" src="https://github.com/user-attachments/assets/64f01579-1205-4783-a641-fc9d91be8670" />
+<img width="491" height="456" alt="11" src="https://github.com/user-attachments/assets/10dcd985-5ece-472a-b540-f54dbff4a874" />
+<img width="855" height="967" alt="12" src="https://github.com/user-attachments/assets/775767ff-c2a8-4246-b54b-edc8cbbb568b" />
+<img width="908" height="515" alt="13" src="https://github.com/user-attachments/assets/f5aaff47-172d-4aac-8cf1-a7d36e1c795d" />
+
+
+
+2.使用livesever進行模擬
+
+
+<img width="1908" height="1040" alt="14" src="https://github.com/user-attachments/assets/631520cf-f0c1-4c5d-9be4-96f6c1643864" />
+<img width="1906" height="1004" alt="15" src="https://github.com/user-attachments/assets/24c3ef42-bf30-4f85-a62c-19117f899790" />
+<img width="1919" height="1041" alt="16" src="https://github.com/user-attachments/assets/790e5573-ea95-45c3-9581-28cb4dc74810" />
+<img width="1917" height="1045" alt="17" src="https://github.com/user-attachments/assets/bb7b3cf3-12c1-4e08-8048-e6ddc3e41662" />
+
+
+五、結語
+
 
 透過 ChatGPT 生成程式碼，你可以在短短幾分鐘內建立出一個簡單的井字棋網站，並將網站轉換成手機應用程式，完全不用花一毛錢就能實現全新的手機應用開發。有了 ChatGPT 等人工智慧的輔助，從程式碼生成到實際運行的每一步都變得異常簡單。無論你是程式設計新手還是有經驗的開發者，都能輕鬆上手。
 
